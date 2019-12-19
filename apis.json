@@ -1,0 +1,49 @@
+{
+    "name": "FetchApp",
+    "description": "FetchApp is a digital delivery application that makes selling downloadable products simple. It seamlessly integrates with popular shopping carts and payment systems like Shopify, Bigcommerce, PayPal, and many others. FetchApp is hosted software so ther...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1415-fetchapp.jpg",
+    "tags": [
+        "api provider",
+        "digital goods",
+        "ebooks",
+        "have api",
+        "marketplaces",
+        "photos",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fetchapp\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FetchApp",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1415-fetchapp.jpg",
+            "humanURL": "http:\/\/www.fetchapp.com\/pages\/help-api2",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fetchapp-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.fetchapp.com\/pages\/help-api2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/buy-with-fetch"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fetchapp"
+        }
+    ]
+}
